@@ -1,0 +1,50 @@
+NAME
+Thilitshi Mudzungwane
+
+EDUCATION
+Thilitshi Mudzungwane is a Computer Science graduate from the University of the Western Cape.
+
+CAREER
+Thilitshi is open to graduate opportunities, internships and junior roles to start his career and grow professionally.
+
+INTERESTS
+Thilitshi is interested in software development, artificial intelligence, machine learning and data science.
+
+PROGRAMMING LANGUAGES
+Java
+Python
+JavaScript
+SQL
+R
+SAS
+Assembly
+
+TOOLS AND TECHNOLOGIES
+React
+Node.js
+Git
+GitHub
+MySQL
+AWS
+Microsoft Office
+
+PROJECTS
+
+ProjectSync
+ProjectSync is a full-stack collaboration platform for developers.
+
+Hotel Booking System
+A database project focused on database design, SQL and data integrity.
+
+Raspberry Pi Traffic Light
+A Python-based traffic light simulation using Raspberry Pi.
+
+CERTIFICATIONS
+AWS Cloud Practitioner Essentials
+Introduction to Modern AI
+Introduction to Data Science
+Artificial Intelligence Fundamentals
+SAS University of the Western Cape Academic Specialisation in Statistical Programming
+
+WEBSITE
+The website is Thilitshi Mudzungwane's personal portfolio website. It showcases his education, technical skills, projects, certifications, experience and contact information.
