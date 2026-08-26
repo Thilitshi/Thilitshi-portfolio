@@ -5,6 +5,8 @@ const sendButton = document.getElementById("send-button");
 const messageInput = document.getElementById("message-input");
 const chatMessages = document.getElementById("chat-messages");
 
+const API_URL = "https://thilitshi-portfolio-api.onrender.com";
+
 chatButton.addEventListener("click", () => {
     chatbot.classList.add("active");
     messageInput.focus();
@@ -39,7 +41,9 @@ function addMessage(message, type) {
 async function sendMessage() {
     const message = messageInput.value.trim();
 
-    if (!message) return;
+    if (!message) {
+        return;
+    }
 
     addMessage(message, "user");
 
@@ -55,7 +59,7 @@ async function sendMessage() {
 
     try {
         const response = await fetch(
-            "https://thilitshi-portfolio-api.onrender.com/api/chat",
+            `${API_URL}/api/chat`,
             {
                 method: "POST",
                 headers: {
@@ -85,7 +89,7 @@ async function sendMessage() {
                     errorMessage = errorData.detail;
                 }
             } catch (error) {
-                console.error(error);
+                console.error("Error parsing server response:", error);
             }
 
             addMessage(
@@ -96,7 +100,20 @@ async function sendMessage() {
             return;
         }
 
-        const data = JSON.parse(responseText);
+        let data;
+
+        try {
+            data = JSON.parse(responseText);
+        } catch (error) {
+            console.error("Invalid JSON response:", error);
+
+            addMessage(
+                "Sorry, the server returned an invalid response.",
+                "bot"
+            );
+
+            return;
+        }
 
         addMessage(
             data.response || "I couldn't generate a response.",
