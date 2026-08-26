@@ -9,7 +9,14 @@ load_dotenv()
 DATABASE_URL = os.getenv("DATABASE_URL")
 
 if not DATABASE_URL:
-    raise RuntimeError("DATABASE_URL is missing from .env")
+    raise RuntimeError("DATABASE_URL is missing")
+
+if DATABASE_URL.startswith("mysql://"):
+    DATABASE_URL = DATABASE_URL.replace(
+        "mysql://",
+        "mysql+pymysql://",
+        1
+    )
 
 engine = create_engine(
     DATABASE_URL,
