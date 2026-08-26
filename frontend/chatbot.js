@@ -154,6 +154,6 @@ const observer = new IntersectionObserver(
     }
 );
 
-animatedSections.forEach((section) => {
+animatedSections.forEach((section) => { 
     observer.observe(section);
 });
