@@ -11,14 +11,17 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 if not DATABASE_URL:
     raise RuntimeError("DATABASE_URL is missing")
 
-DATABASE_URL = DATABASE_URL.replace("mysql://", "mysql+pymysql://", 1)
-DATABASE_URL = DATABASE_URL.split("?")[0]
+if DATABASE_URL.startswith("mysql://"):
+    DATABASE_URL = DATABASE_URL.replace(
+        "mysql://",
+        "mysql+pymysql://",
+        1
+    )
+
+DATABASE_URL = DATABASE_URL.split("?", 1)[0]
 
 engine = create_engine(
     DATABASE_URL,
-    connect_args={
-        "ssl": {}
-    },
     echo=False
 )
 
