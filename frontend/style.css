@@ -1513,15 +1513,18 @@ footer {
     }
 
     .hero-buttons {
-        width: 100%;
-        justify-content: center;
-        gap: 8px;
+    width: 100%;
+    justify-content: center;
+    gap: 8px;
     }
 
     .hero-buttons a,
     .hero-buttons button {
-        width: min(100%, 230px);
-        font-size: 0.72rem;
+        width: auto;
+        max-width: none;
+        padding: 9px 14px;
+        font-size: 0.68rem;
+        line-height: 1.2;
     }
 
     .about-grid {
@@ -1819,6 +1822,16 @@ footer {
 
 @media screen and (max-width: 380px) {
 
+    .hero-buttons {
+        gap: 6px;
+    }
+
+    .hero-buttons a,
+    .hero-buttons button {
+        padding: 8px 12px;
+        font-size: 0.64rem;
+    }
+
     .site-header {
         padding: 0 8px;
     }
@@ -2108,3 +2121,11 @@ footer {
         min-height: 36px;
     }
 }
+
+.github-note {
+    font-size: 12px;
+    color: #888;
+    margin-top: 18px;
+    text-align: center;
+}
+
