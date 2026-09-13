@@ -1,50 +1,330 @@
-NAME
-Thilitshi Mudzungwane
+```text
+THILITSHI MUDZUNGWANE
+======================
+
+PROFILE
+=======
+
+Thilitshi Mudzungwane is a BSc Computer Science graduate from the University of the Western Cape (UWC). He completed his degree in 2025.
+
+He has a strong foundation in programming, software engineering, algorithms, data structures, databases, computer systems, artificial intelligence, machine learning, and statistics.
+
+He enjoys building practical technology solutions, solving problems, learning new technologies, and applying his Computer Science knowledge to real-world projects.
+
+
+CAREER DIRECTION
+================
+
+Primary Career Direction:
+Software Engineering
+
+Secondary Career Interest:
+Technology Risk & Cybersecurity
+
+Third Career Interest:
+Data Analytics & Data Science
+
+Additional Technical Interests:
+Artificial Intelligence
+Machine Learning
+
+Career Goal:
+Thilitshi is seeking graduate opportunities, internships, and junior-level roles where he can gain industry experience, contribute to meaningful projects, and continue developing as a technology professional.
+
+Software Engineering is his primary career direction. Technology Risk & Cybersecurity and Data Analytics & Data Science are additional areas he is interested in exploring.
+
 
 EDUCATION
-Thilitshi Mudzungwane is a Computer Science graduate from the University of the Western Cape.
+=========
 
-CAREER
-Thilitshi is open to graduate opportunities, internships and junior roles to start his career and grow professionally.
+Qualification:
+BSc Computer Science
 
-INTERESTS
-Thilitshi is interested in software development, artificial intelligence, machine learning and data science.
+Institution:
+University of the Western Cape
 
-PROGRAMMING LANGUAGES
-Java
-Python
-JavaScript
-SQL
-R
-SAS
-Assembly
+Completion:
+2025
 
-TOOLS AND TECHNOLOGIES
-React
-Node.js
-Git
-GitHub
-MySQL
-AWS
-Microsoft Office
+Relevant Academic Areas:
+- Software Engineering
+- Data Structures and Algorithms
+- Operating Systems
+- Databases
+- Computer Systems
+- Artificial Intelligence
+- Machine Learning
+- Statistics
+
+
+TECHNICAL SKILLS
+================
+
+Programming Languages:
+- Java
+- Python
+- JavaScript
+- SQL
+- R
+- SAS
+- Assembly
+
+Web and Software Technologies:
+- React.js
+- Node.js
+- Express.js
+- Tailwind CSS
+- Socket.IO
+- JWT
+
+Databases:
+- MongoDB
+- MySQL
+
+Tools and Platforms:
+- Git
+- GitHub
+- AWS
+- Microsoft Office
+
 
 PROJECTS
+========
 
 ProjectSync
-ProjectSync is a full-stack collaboration platform for developers.
+Full-Stack Web Application
+Status: Personal Project
 
-Hotel Booking System
-A database project focused on database design, SQL and data integrity.
+Technologies:
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Socket.IO
+- JWT
 
-Raspberry Pi Traffic Light
-A Python-based traffic light simulation using Raspberry Pi.
+Description:
+ProjectSync is a full-stack collaboration platform designed to help developers create, manage, and share projects while connecting with potential teammates.
+
+The project includes secure user authentication, project management functionality, real-time updates, collaboration features, and project sharing.
+
+ProjectSync demonstrates Thilitshi's interest in Software Engineering and building practical web applications.
+
+
+Hotel Booking Website
+Group Project
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Paystack
+
+Description:
+The Hotel Booking Website is a group project that provides functionality for hotel room reservations.
+
+The system includes user accounts, room reservations, online payments, and an administrative panel for managing rooms, bookings, and customers.
+
+Paystack was used for online payment functionality.
+
+This project provided practical experience in developing a database-driven web application.
+
+
+Traffic Light Simulation
+Embedded Systems Group Project
+
+Technologies:
+- Python
+- Raspberry Pi
+- LEDs
+
+Description:
+The Traffic Light Simulation is a group project using a Raspberry Pi and LEDs to simulate traffic light sequences.
+
+The project involved implementing timed traffic light control logic and working with hardware components.
+
+The project provided practical exposure to Python programming, hardware interaction, and embedded systems concepts.
+
+
+Seoul Bike Rental Analysis
+Data Analysis Project
+
+Technologies:
+- SAS
+- Statistics
+- Data Analysis
+- Data Visualization
+
+Description:
+The Seoul Bike Rental Analysis project investigated key predictors of bike rental usage using environmental and temporal data.
+
+The project involved statistical analysis and data visualization using SAS to explore relationships between bike rental demand and different environmental and temporal factors.
+
+This project demonstrates Thilitshi's interest in Statistics, Data Analytics, and Data Science.
+
+
+EXPERIENCE
+==========
+
+Services Volunteer
+Dzwerani Lutheran Church
+2021 - 2023
+
+Description:
+Thilitshi volunteered at Dzwerani Lutheran Church, supporting community and church activities.
+
+His responsibilities included assisting at the front desk, responding to enquiries, researching educational opportunities, and supporting community activities.
+
+This experience helped develop his communication, research, organisation, teamwork, and interpersonal skills.
+
+This was volunteer experience and should not be described as professional software engineering or IT industry experience.
+
 
 CERTIFICATIONS
-AWS Cloud Practitioner Essentials
-Introduction to Modern AI
-Introduction to Data Science
-Artificial Intelligence Fundamentals
-SAS University of the Western Cape Academic Specialisation in Statistical Programming
+==============
 
-WEBSITE
-The website is Thilitshi Mudzungwane's personal portfolio website. It showcases his education, technical skills, projects, certifications, experience and contact information.
+AWS Cloud Practitioner Essentials
+AWS Training & Certification
+
+Introduction to Modern AI
+Cisco Networking Academy
+
+Introduction to Data Science
+Cisco Networking Academy
+
+Artificial Intelligence Fundamentals
+IBM SkillsBuild
+
+SAS - Academic Specialisation in Statistical Programming
+University of the Western Cape
+Awarded in May 2026
+
+Fortinet Certified Fundamentals in Cybersecurity
+Fortinet
+
+Introduction to Cybersecurity
+Cisco Networking Academy
+
+
+LANGUAGES
+=========
+
+English:
+Fluent
+
+Tshivenda:
+Fluent
+
+isiZulu:
+Conversational
+
+isiXhosa:
+Conversational
+
+
+PORTFOLIO
+=========
+
+Thilitshi has a personal portfolio website showcasing his background, skills, projects, certifications, and career interests.
+
+The portfolio focuses primarily on his journey toward Software Engineering while also highlighting his interests in Technology Risk & Cybersecurity, Data Analytics & Data Science, Artificial Intelligence, and Machine Learning.
+
+Portfolio:
+https://thilitshi-portfolio.vercel.app/
+
+GitHub:
+https://github.com/Thilitshi
+
+
+CAREER INTERESTS
+================
+
+Software Engineering:
+Thilitshi's primary career direction. He is interested in building reliable, practical, and user-focused software solutions.
+
+Technology Risk & Cybersecurity:
+A secondary career interest involving technology controls, cybersecurity, IT risk, and understanding how technology-related risks can be identified and managed.
+
+Data Analytics & Data Science:
+A third career interest involving data analysis, statistics, data visualization, and using data to understand problems and support decision-making.
+
+Artificial Intelligence and Machine Learning:
+Important technical interests that complement his Software Engineering direction. He is interested in how intelligent technologies can be integrated into practical applications and solutions.
+
+
+PROFESSIONAL GOAL
+=================
+
+Thilitshi is looking to begin his professional technology career through graduate opportunities, internships, or junior-level roles.
+
+His primary goal is to grow as a Software Engineer, gain practical industry experience, contribute to meaningful projects, and continue developing his technical skills.
+
+He is also open to opportunities related to Technology Risk & Cybersecurity and Data Analytics & Data Science.
+
+
+CHATBOT INFORMATION RULES
+=========================
+
+The chatbot must use this file as the main source of truth for personal information about Thilitshi.
+
+The chatbot must not invent or assume:
+- qualifications
+- employment
+- employers
+- job titles
+- professional experience
+- projects
+- certifications
+- skills
+- achievements
+- salaries
+- academic results
+- responsibilities
+- career history
+- personal information
+
+The chatbot must not describe Thilitshi as an experienced professional Software Engineer.
+
+The chatbot must distinguish between:
+- personal projects
+- academic projects
+- group projects
+- volunteer experience
+- professional employment
+
+Projects must not be presented as professional employment.
+
+Software Engineering must always be presented as Thilitshi's primary career direction.
+
+Technology Risk & Cybersecurity must be presented as his secondary career interest.
+
+Data Analytics & Data Science must be presented as his third career interest.
+
+Artificial Intelligence and Machine Learning should be presented as technical interests that complement his Software Engineering direction.
+
+If information is not contained in this file, the chatbot should clearly state that the information is not currently available in the portfolio.
+
+The chatbot should answer the visitor's actual question instead of providing the entire profile every time.
+
+For broad questions such as:
+"Tell me about Thilitshi"
+"Who is Thilitshi?"
+"What can you tell me about Thilitshi?"
+
+the chatbot should provide a natural professional introduction rather than a CV-style list.
+
+For questions about skills, focus on relevant skills.
+
+For questions about projects, focus on the relevant project.
+
+For questions about career goals, explain the career priorities in the correct order.
+
+For questions about education, focus on the BSc Computer Science degree and relevant academic areas.
+
+For questions about certifications, mention only certifications listed in this file.
+
+For questions about experience, clearly distinguish volunteer experience and academic projects from professional industry experience.
+
+The chatbot should be friendly, professional, natural, and concise.
+```

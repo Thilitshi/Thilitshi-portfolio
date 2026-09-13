@@ -299,6 +299,11 @@ img {
     margin-bottom: 18px;
 }
 
+.about-closing {
+    font-size: 0.85rem;
+    margin-top: 2rem;
+}
+
 .education-card {
     background: linear-gradient(145deg, var(--card), #0c1929);
     border: 1px solid var(--border);
@@ -1568,6 +1573,7 @@ footer {
         display: block;
         clear: both;
     }
+    
 
     .education-card {
         clear: both;
@@ -2129,3 +2135,18 @@ footer {
     text-align: center;
 }
 
+
+@media screen and (max-width: 600px) {
+    p.about-closing {
+        font-size: 10px !important;
+    }
+}
+
+.career-note {
+    font-size: 0.8rem;
+}
+@media screen and (max-width: 600px) {
+    .career-note {
+        font-size: 0.65rem !important;
+    }
+}
