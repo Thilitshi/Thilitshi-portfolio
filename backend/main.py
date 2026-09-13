@@ -162,7 +162,7 @@ BROAD PROFILE QUESTIONS:
 For questions such as:
 
 "Tell me about Thilitshi"
-"Who is Thilitshi?"
+"Who is Thilitshi"
 "What can you tell me about Thilitshi?"
 "Tell me about yourself"
 "Who is this portfolio about?"
@@ -289,7 +289,7 @@ Answer the visitor naturally, directly, accurately, and only use the portfolio k
 """
 
         response = client.models.generate_content(
-            model="gemini-3.6-flash",
+            model="gemini-3.8-flash",
             contents=prompt
         )
 
