@@ -1,19 +1,31 @@
-```text
-THILITSHI MUDZUNGWANE
-======================
+# THILITSHI MUDZUNGWANE
 
-PROFILE
-=======
+# PROFILE
+
+Name:
+Thilitshi Mudzungwane
 
 Thilitshi Mudzungwane is a BSc Computer Science graduate from the University of the Western Cape (UWC). He completed his degree in 2025.
 
-He has a strong foundation in programming, software engineering, algorithms, data structures, databases, computer systems, artificial intelligence, machine learning, and statistics.
+His academic background provided a foundation in programming, software engineering, algorithms, data structures, databases, operating systems, computer systems, artificial intelligence, machine learning, and statistics.
 
-He enjoys building practical technology solutions, solving problems, learning new technologies, and applying his Computer Science knowledge to real-world projects.
+He enjoys building practical technology solutions, solving problems, learning new technologies, and applying Computer Science knowledge to real-world projects.
 
+Thilitshi is a recent Computer Science graduate beginning his professional technology career. His portfolio primarily focuses on his journey toward Software Engineering while also highlighting his interests in Technology Risk & Cybersecurity, Data Analytics & Data Science, Artificial Intelligence, and Machine Learning.
 
-CAREER DIRECTION
-================
+# QUICK FACTS
+
+Qualification:
+BSc Computer Science
+
+Institution:
+University of the Western Cape (UWC)
+
+Completed:
+2025
+
+Current Career Stage:
+Recent Computer Science graduate seeking to begin his professional technology career.
 
 Primary Career Direction:
 Software Engineering
@@ -28,14 +40,145 @@ Additional Technical Interests:
 Artificial Intelligence
 Machine Learning
 
-Career Goal:
-Thilitshi is seeking graduate opportunities, internships, and junior-level roles where he can gain industry experience, contribute to meaningful projects, and continue developing as a technology professional.
+Professional Industry Experience:
+No professional software engineering or IT industry employment is listed in the portfolio.
 
-Software Engineering is his primary career direction. Technology Risk & Cybersecurity and Data Analytics & Data Science are additional areas he is interested in exploring.
+Project Experience:
+Personal, academic, and group projects.
 
+Volunteer Experience:
+Services Volunteer at Dzwerani Lutheran Church from 2021 to 2023.
 
-EDUCATION
-=========
+Current Professional Goal:
+To gain practical industry experience through graduate opportunities, internships, or junior-level technology roles.
+
+# CAREER DIRECTION
+
+Primary Career Direction:
+Software Engineering
+
+Secondary Career Interest:
+Technology Risk & Cybersecurity
+
+Third Career Interest:
+Data Analytics & Data Science
+
+Additional Technical Interests:
+Artificial Intelligence
+Machine Learning
+
+# SOFTWARE ENGINEERING
+
+Software Engineering is Thilitshi's primary career direction.
+
+He is interested in building reliable, practical, and user-focused software solutions.
+
+His interest in Software Engineering is supported by his Computer Science education and practical projects involving programming, databases, web applications, authentication, APIs, real-time functionality, and full-stack application development.
+
+ProjectSync is particularly relevant to his Software Engineering direction because it is a personal full-stack application involving React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT authentication, and other web technologies.
+
+Thilitshi is seeking opportunities where he can continue developing as a Software Engineer, gain industry experience, work on meaningful projects, learn from experienced professionals, and strengthen his technical skills.
+
+# TECHNOLOGY RISK & CYBERSECURITY
+
+Technology Risk & Cybersecurity is Thilitshi's secondary career interest.
+
+His interests in this area include:
+
+* Technology controls
+* Cybersecurity
+* IT risk
+* Technology-related risk
+* Understanding how technology risks can be identified and managed
+
+Relevant cybersecurity-related learning includes:
+
+* Fortinet Certified Fundamentals in Cybersecurity
+* Introduction to Cybersecurity from Cisco Networking Academy
+
+Technology Risk & Cybersecurity is a secondary career interest and should not be presented as his primary career direction.
+
+The portfolio does not claim professional Technology Risk, Cybersecurity, or IT Risk employment unless explicitly stated.
+
+# DATA ANALYTICS & DATA SCIENCE
+
+Data Analytics & Data Science is Thilitshi's third career interest.
+
+His interest in this area includes:
+
+* Data analysis
+* Statistics
+* Data visualization
+* Statistical programming
+* Using data to understand problems
+* Using data to support decision-making
+
+The Seoul Bike Rental Analysis project demonstrates his exposure to statistical analysis, data analysis, data visualization, and SAS.
+
+Thilitshi has also completed Introduction to Data Science training through Cisco Networking Academy.
+
+Data Analytics & Data Science is his third career interest and should not be presented as his primary career direction.
+
+# ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+Artificial Intelligence and Machine Learning are additional technical interests that complement Thilitshi's Software Engineering direction.
+
+His academic background includes Artificial Intelligence and Machine Learning.
+
+He is interested in how intelligent technologies can be integrated into practical applications and software solutions.
+
+Artificial Intelligence and Machine Learning should not be presented as his primary career direction.
+
+His primary career direction remains Software Engineering.
+
+# CAREER PRIORITIES
+
+Thilitshi's career priorities are:
+
+1. Software Engineering
+2. Technology Risk & Cybersecurity
+3. Data Analytics & Data Science
+
+Software Engineering is his primary career direction.
+
+Technology Risk & Cybersecurity is his secondary career interest.
+
+Data Analytics & Data Science is his third career interest.
+
+Artificial Intelligence and Machine Learning are additional technical interests that complement his Software Engineering direction.
+
+Do not present the three career areas as equal priorities.
+
+Do not make Artificial Intelligence or Machine Learning his primary career direction.
+
+Do not replace Software Engineering with Software Development when describing his primary career direction.
+
+# PROFESSIONAL GOAL
+
+Thilitshi is looking to begin his professional technology career through graduate opportunities, internships, or junior-level roles.
+
+His primary goal is to grow as a Software Engineer, gain practical industry experience, contribute to meaningful projects, and continue developing his technical skills.
+
+He is also open to opportunities related to Technology Risk & Cybersecurity and Data Analytics & Data Science.
+
+Preferred opportunity types include:
+
+* Graduate Software Engineering roles
+* Junior Software Engineering roles
+* Software Engineering internships
+* Technology Risk graduate opportunities
+* Cybersecurity graduate opportunities
+* IT Risk opportunities
+* Data Analytics graduate opportunities
+* Data Science graduate opportunities
+
+His primary preference is Software Engineering.
+
+His secondary preference is Technology Risk & Cybersecurity.
+
+His third preference is Data Analytics & Data Science.
+
+# EDUCATION
 
 Qualification:
 BSc Computer Science
@@ -47,168 +190,526 @@ Completion:
 2025
 
 Relevant Academic Areas:
-- Software Engineering
-- Data Structures and Algorithms
-- Operating Systems
-- Databases
-- Computer Systems
-- Artificial Intelligence
-- Machine Learning
-- Statistics
 
+* Software Engineering
+* Data Structures and Algorithms
+* Operating Systems
+* Databases
+* Computer Systems
+* Artificial Intelligence
+* Machine Learning
+* Statistics
 
-TECHNICAL SKILLS
-================
+Thilitshi's Computer Science degree provided an academic foundation in programming, problem-solving, software engineering concepts, algorithms, data structures, databases, computer systems, artificial intelligence, machine learning, and statistics.
 
-Programming Languages:
-- Java
-- Python
-- JavaScript
-- SQL
-- R
-- SAS
-- Assembly
+Do not add qualifications that are not listed in this knowledge file.
 
-Web and Software Technologies:
-- React.js
-- Node.js
-- Express.js
-- Tailwind CSS
-- Socket.IO
-- JWT
+# TECHNICAL SKILLS
 
-Databases:
-- MongoDB
-- MySQL
+## PROGRAMMING LANGUAGES
 
-Tools and Platforms:
-- Git
-- GitHub
-- AWS
-- Microsoft Office
+* Java
+* Python
+* JavaScript
+* SQL
+* R
+* SAS
+* Assembly
 
+## WEB AND SOFTWARE TECHNOLOGIES
 
-PROJECTS
-========
+* React.js
+* Node.js
+* Express.js
+* Tailwind CSS
+* Socket.IO
+* JWT
 
+## DATABASES
+
+* MongoDB
+* MySQL
+
+## TOOLS AND PLATFORMS
+
+* Git
+* GitHub
+* AWS
+* Microsoft Office
+
+# TECHNICAL SKILLS – CONTEXT
+
+Java:
+Java is part of Thilitshi's Computer Science programming foundation.
+
+Python:
+Python has been used in programming, academic projects, and the Traffic Light Simulation project.
+
+JavaScript:
+JavaScript has been used for web application development and interactive functionality.
+
+SQL:
+SQL is part of Thilitshi's database and application development knowledge.
+
+R:
+R is part of his statistical and data-related programming background.
+
+SAS:
+SAS has been used for statistical programming, data analysis, and data visualization.
+
+Assembly:
+Assembly is part of his Computer Science and computer systems programming background.
+
+React.js:
+React.js was used to build the front end of ProjectSync.
+
+Node.js:
+Node.js was used for the back end of ProjectSync.
+
+Express.js:
+Express.js was used to build server-side functionality and APIs for ProjectSync.
+
+MongoDB:
+MongoDB was used as the database for ProjectSync.
+
+Mongoose:
+Mongoose was used for MongoDB data modelling in ProjectSync.
+
+Socket.IO:
+Socket.IO was used to provide real-time communication and updates in ProjectSync.
+
+JWT:
+JWT was used for authentication in ProjectSync.
+
+Tailwind CSS:
+Tailwind CSS was used for styling web applications.
+
+MySQL:
+MySQL is part of Thilitshi's database knowledge and application development background.
+
+Git:
+Git is used for version control.
+
+GitHub:
+GitHub is used to host and showcase software and academic projects.
+
+AWS:
+Thilitshi completed AWS Cloud Practitioner Essentials training. This should not be interpreted as professional AWS industry experience.
+
+# PROJECTS
+
+## PROJECTSYNC
+
+Project Name:
 ProjectSync
+
+Project Type:
+Personal Project
+
+Category:
 Full-Stack Web Application
-Status: Personal Project
+
+Status:
+Personal Project
 
 Technologies:
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Socket.IO
-- JWT
 
-Description:
-ProjectSync is a full-stack collaboration platform designed to help developers create, manage, and share projects while connecting with potential teammates.
+* React.js
+* React 18
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* Socket.IO
+* JWT
+* Tailwind CSS
 
-The project includes secure user authentication, project management functionality, real-time updates, collaboration features, and project sharing.
+Purpose:
 
-ProjectSync demonstrates Thilitshi's interest in Software Engineering and building practical web applications.
+ProjectSync is a full-stack collaboration platform designed to help developers create, manage, share, and collaborate on software projects while connecting with potential teammates.
 
+Main Features:
 
+* User registration
+* User authentication
+* Secure login
+* JWT-based authentication
+* Password reset functionality
+* Email-based password reset
+* Project creation
+* Project management
+* Project sharing
+* Project progress updates
+* Milestones
+* Collaboration requests
+* Help requests
+* Real-time updates
+* Developer collaboration
+* Celebration Wall
+
+Technical Description:
+
+ProjectSync uses React.js for the front end and Node.js with Express.js for the back end.
+
+MongoDB is used as the database, with Mongoose used for data modelling.
+
+JWT is used for authentication.
+
+Socket.IO is used for real-time communication and updates.
+
+Tailwind CSS is used for styling.
+
+What ProjectSync Demonstrates:
+
+* Full-stack application development
+* Front-end development
+* Back-end development
+* REST API development
+* Database integration
+* Authentication
+* Authorization
+* Real-time communication
+* Application integration
+* Building practical user-focused software
+* Working with multiple technologies within one application
+
+ProjectSync demonstrates Thilitshi's interest in Software Engineering and his ability to apply Computer Science knowledge to a practical software project.
+
+Professional Experience Clarification:
+
+ProjectSync is a personal project.
+
+It is not professional employment.
+
+It must not be described as professional Software Engineering experience.
+
+## HOTEL BOOKING WEBSITE
+
+Project Name:
 Hotel Booking Website
+
+Project Type:
 Group Project
 
+Category:
+Web Application
+
 Technologies:
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Paystack
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Paystack
 
 Description:
+
 The Hotel Booking Website is a group project that provides functionality for hotel room reservations.
 
-The system includes user accounts, room reservations, online payments, and an administrative panel for managing rooms, bookings, and customers.
+The system includes:
+
+* User accounts
+* Room reservations
+* Online payments
+* Administrative panel
+* Room management
+* Booking management
+* Customer management
 
 Paystack was used for online payment functionality.
 
-This project provided practical experience in developing a database-driven web application.
+The project involved building a database-driven web application and provided practical exposure to web development, application functionality, database-related concepts, and online payment integration.
 
+What the project demonstrates:
 
+* Web application development
+* JavaScript
+* PHP
+* HTML
+* CSS
+* Online payment integration
+* Database-driven application concepts
+* User account functionality
+* Administrative functionality
+
+Professional Experience Clarification:
+
+The Hotel Booking Website is a group academic project.
+
+It is not professional employment and should not be described as professional industry experience.
+
+## TRAFFIC LIGHT SIMULATION
+
+Project Name:
 Traffic Light Simulation
+
+Project Type:
 Embedded Systems Group Project
 
+Category:
+Embedded Systems
+
 Technologies:
-- Python
-- Raspberry Pi
-- LEDs
+
+* Python
+* Raspberry Pi
+* LEDs
 
 Description:
+
 The Traffic Light Simulation is a group project using a Raspberry Pi and LEDs to simulate traffic light sequences.
 
-The project involved implementing timed traffic light control logic and working with hardware components.
+The project involved implementing timed traffic light control logic and interacting with hardware components.
 
-The project provided practical exposure to Python programming, hardware interaction, and embedded systems concepts.
+The project provided practical exposure to:
 
+* Python programming
+* Hardware interaction
+* Raspberry Pi
+* LED control
+* Timed control logic
+* Embedded systems concepts
 
+What the project demonstrates:
+
+* Programming logic
+* Python programming
+* Hardware interaction
+* Understanding of basic embedded systems concepts
+* Practical problem-solving
+
+Professional Experience Clarification:
+
+The Traffic Light Simulation is a group academic project.
+
+It is not professional employment and should not be described as professional industry experience.
+
+## SEOUL BIKE RENTAL ANALYSIS
+
+Project Name:
 Seoul Bike Rental Analysis
+
+Project Type:
 Data Analysis Project
 
-Technologies:
-- SAS
-- Statistics
-- Data Analysis
-- Data Visualization
+Category:
+Statistics / Data Analysis / Data Visualization
+
+Technologies and Methods:
+
+* SAS
+* Statistics
+* Data Analysis
+* Data Visualization
 
 Description:
+
 The Seoul Bike Rental Analysis project investigated key predictors of bike rental usage using environmental and temporal data.
 
 The project involved statistical analysis and data visualization using SAS to explore relationships between bike rental demand and different environmental and temporal factors.
 
+What the project demonstrates:
+
+* Statistical programming
+* Data analysis
+* Statistical reasoning
+* Data visualization
+* Interpretation of data
+* Use of environmental and temporal variables
+* Application of statistics to a real-world dataset
+
 This project demonstrates Thilitshi's interest in Statistics, Data Analytics, and Data Science.
 
+Professional Experience Clarification:
 
-EXPERIENCE
-==========
+The Seoul Bike Rental Analysis is an academic/data analysis project.
 
+It is not professional employment and should not be described as professional industry experience.
+
+# PROJECT AND SKILL CONNECTIONS
+
+ProjectSync demonstrates:
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* Socket.IO
+* JWT
+* Tailwind CSS
+* Full-stack application development
+* Authentication
+* Real-time functionality
+* Database integration
+* Software Engineering concepts
+
+Hotel Booking Website demonstrates:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Paystack
+* Web application development
+* Database-driven application concepts
+* Online payment integration
+* User accounts
+* Administrative functionality
+
+Traffic Light Simulation demonstrates:
+
+* Python
+* Raspberry Pi
+* LED control
+* Hardware interaction
+* Embedded systems concepts
+* Programming logic
+
+Seoul Bike Rental Analysis demonstrates:
+
+* SAS
+* Statistics
+* Statistical programming
+* Data analysis
+* Data visualization
+* Interpretation of environmental and temporal data
+
+# EXPERIENCE
+
+## SERVICES VOLUNTEER
+
+Role:
 Services Volunteer
+
+Organisation:
 Dzwerani Lutheran Church
-2021 - 2023
+
+Period:
+2021 – 2023
+
+Type:
+Volunteer Experience
 
 Description:
+
 Thilitshi volunteered at Dzwerani Lutheran Church, supporting community and church activities.
 
-His responsibilities included assisting at the front desk, responding to enquiries, researching educational opportunities, and supporting community activities.
+Responsibilities included:
 
-This experience helped develop his communication, research, organisation, teamwork, and interpersonal skills.
+* Assisting at the front desk
+* Responding to enquiries
+* Researching educational opportunities
+* Compiling information about educational opportunities for youth
+* Supporting community activities
 
-This was volunteer experience and should not be described as professional software engineering or IT industry experience.
+Skills developed through this experience include:
 
+* Communication
+* Research
+* Organisation
+* Teamwork
+* Interpersonal skills
+* Administrative support
 
-CERTIFICATIONS
-==============
+Important Clarification:
+
+This was volunteer experience.
+
+It was not professional software engineering experience.
+
+It was not professional IT industry experience.
+
+It must not be described as professional employment.
+
+# PROFESSIONAL EXPERIENCE CLARIFICATION
+
+The portfolio does not list professional software engineering employment.
+
+The portfolio does not claim professional IT industry experience.
+
+The portfolio contains:
+
+* A personal full-stack software project
+* Academic/group projects
+* A data analysis project
+* Volunteer experience
+
+These experiences should be clearly distinguished from professional employment.
+
+Do not describe ProjectSync as employment.
+
+Do not describe the Hotel Booking Website as employment.
+
+Do not describe the Traffic Light Simulation as employment.
+
+Do not describe the Seoul Bike Rental Analysis as employment.
+
+Do not describe the Dzwerani Lutheran Church volunteer role as professional Software Engineering or IT experience.
+
+# CERTIFICATIONS
 
 AWS Cloud Practitioner Essentials
 AWS Training & Certification
 
+This demonstrates exposure to AWS cloud concepts and foundational cloud knowledge.
+
+It should not be interpreted as professional AWS industry experience.
+
 Introduction to Modern AI
 Cisco Networking Academy
+
+This demonstrates introductory learning in Artificial Intelligence.
 
 Introduction to Data Science
 Cisco Networking Academy
 
+This demonstrates introductory learning in Data Science and related concepts.
+
 Artificial Intelligence Fundamentals
 IBM SkillsBuild
 
-SAS - Academic Specialisation in Statistical Programming
+This demonstrates foundational learning in Artificial Intelligence.
+
+SAS – Academic Specialisation in Statistical Programming
 University of the Western Cape
-Awarded in May 2026
+
+Awarded:
+May 2026
+
+This was an academic recognition associated with the relevant Statistical Programming specialisation.
+
+It demonstrates academic achievement and exposure to statistical programming, statistics, and data analysis.
+
+It should not be described as professional industry experience.
 
 Fortinet Certified Fundamentals in Cybersecurity
 Fortinet
 
+This demonstrates foundational cybersecurity knowledge.
+
 Introduction to Cybersecurity
 Cisco Networking Academy
 
+This demonstrates introductory cybersecurity learning.
 
-LANGUAGES
-=========
+# ACADEMIC ACHIEVEMENTS
+
+SAS – Academic Specialisation in Statistical Programming
+
+Institution:
+University of the Western Cape
+
+Awarded:
+May 2026
+
+The SAS Academic Specialisation in Statistical Programming was awarded as an academic recognition.
+
+It demonstrates academic achievement in the relevant Statistical Programming specialisation and exposure to programming, statistics, and data analysis.
+
+It should not be presented as professional industry experience.
+
+# LANGUAGES
 
 English:
 Fluent
@@ -222,13 +723,25 @@ Conversational
 isiXhosa:
 Conversational
 
+# PORTFOLIO
 
-PORTFOLIO
-=========
+Thilitshi has a personal portfolio website showcasing his:
 
-Thilitshi has a personal portfolio website showcasing his background, skills, projects, certifications, and career interests.
+* Background
+* Education
+* Technical skills
+* Projects
+* Certifications
+* Experience
+* Career interests
+* Professional goals
 
-The portfolio focuses primarily on his journey toward Software Engineering while also highlighting his interests in Technology Risk & Cybersecurity, Data Analytics & Data Science, Artificial Intelligence, and Machine Learning.
+The portfolio focuses primarily on his journey toward Software Engineering while also highlighting his interests in:
+
+* Technology Risk & Cybersecurity
+* Data Analytics & Data Science
+* Artificial Intelligence
+* Machine Learning
 
 Portfolio:
 https://thilitshi-portfolio.vercel.app/
@@ -236,95 +749,408 @@ https://thilitshi-portfolio.vercel.app/
 GitHub:
 https://github.com/Thilitshi
 
+# PORTFOLIO NAVIGATION
 
-CAREER INTERESTS
-================
+The portfolio website contains information about:
+
+* Profile
+* Education
+* Career Direction
+* Technical Skills
+* Projects
+* Certifications
+* Experience
+* Languages
+* Career Interests
+
+Visitors can use the portfolio to learn more about Thilitshi's:
+
+* Computer Science background
+* Software Engineering interests
+* Technical skills
+* Projects
+* Certifications
+* Career goals
+* Technology Risk & Cybersecurity interests
+* Data Analytics & Data Science interests
+* Artificial Intelligence and Machine Learning interests
+
+# CAREER INTERESTS – DETAILED
 
 Software Engineering:
-Thilitshi's primary career direction. He is interested in building reliable, practical, and user-focused software solutions.
+
+Thilitshi's primary career direction.
+
+He is interested in building reliable, practical, and user-focused software solutions.
+
+His Computer Science background and projects provide a foundation for pursuing Software Engineering opportunities.
 
 Technology Risk & Cybersecurity:
-A secondary career interest involving technology controls, cybersecurity, IT risk, and understanding how technology-related risks can be identified and managed.
+
+Thilitshi's secondary career interest.
+
+He is interested in technology controls, cybersecurity, IT risk, and understanding how technology-related risks can be identified and managed.
+
+His cybersecurity-related certifications and learning provide foundational exposure to this area.
 
 Data Analytics & Data Science:
-A third career interest involving data analysis, statistics, data visualization, and using data to understand problems and support decision-making.
+
+Thilitshi's third career interest.
+
+He is interested in data analysis, statistics, statistical programming, data visualization, and using data to understand problems and support decision-making.
+
+His Seoul Bike Rental Analysis project demonstrates this interest.
 
 Artificial Intelligence and Machine Learning:
-Important technical interests that complement his Software Engineering direction. He is interested in how intelligent technologies can be integrated into practical applications and solutions.
 
+Additional technical interests that complement his Software Engineering direction.
 
-PROFESSIONAL GOAL
-=================
+He is interested in understanding and applying intelligent technologies in practical software solutions.
 
-Thilitshi is looking to begin his professional technology career through graduate opportunities, internships, or junior-level roles.
+These areas should not be presented as his primary career direction.
 
-His primary goal is to grow as a Software Engineer, gain practical industry experience, contribute to meaningful projects, and continue developing his technical skills.
+# WHAT THILITSHI IS LOOKING FOR
 
-He is also open to opportunities related to Technology Risk & Cybersecurity and Data Analytics & Data Science.
+Thilitshi is seeking opportunities that allow him to begin his professional technology career and gain practical industry experience.
 
+He is particularly interested in:
 
-CHATBOT INFORMATION RULES
-=========================
+* Graduate Software Engineering opportunities
+* Junior Software Engineering opportunities
+* Software Engineering internships
+* Technology Risk opportunities
+* Cybersecurity opportunities
+* IT Risk opportunities
+* Data Analytics opportunities
+* Data Science opportunities
+
+His primary focus is Software Engineering.
+
+He wants to:
+
+* Gain practical industry experience
+* Apply his Computer Science knowledge
+* Work on meaningful projects
+* Learn from experienced professionals
+* Develop his technical skills
+* Grow professionally
+* Build reliable and practical software solutions
+
+# STRENGTHS AND PROFESSIONAL QUALITIES
+
+Based on his education, projects, certifications, and volunteer experience, Thilitshi has demonstrated:
+
+* Problem-solving
+* Programming ability
+* Analytical thinking
+* Technical curiosity
+* Willingness to learn
+* Communication
+* Research
+* Organisation
+* Teamwork
+* Interpersonal skills
+* Practical application of Computer Science knowledge
+
+These qualities should be described as demonstrated through his academic, project, certification, and volunteer experience.
+
+Do not exaggerate these qualities into claims of extensive professional experience.
+
+# PROJECT EXPERIENCE SUMMARY
+
+Thilitshi's project experience includes:
+
+1. ProjectSync
+   Personal full-stack web application focused on developer collaboration.
+
+2. Hotel Booking Website
+   Group academic web application involving hotel reservations and online payments.
+
+3. Traffic Light Simulation
+   Group academic embedded systems project using Python, Raspberry Pi, and LEDs.
+
+4. Seoul Bike Rental Analysis
+   Data analysis project involving SAS, statistics, statistical programming, and data visualization.
+
+These projects demonstrate different areas of his Computer Science background, with ProjectSync being the project most closely aligned with his primary Software Engineering career direction.
+
+# TECHNOLOGY EXPERIENCE CLARIFICATION
+
+The technologies listed in this knowledge file represent technologies that are part of Thilitshi's academic learning, projects, training, or technical background.
+
+Unless professional employment is explicitly stated, do not say:
+
+* "Thilitshi worked professionally with..."
+* "Thilitshi has professional experience with..."
+* "Thilitshi worked as a..."
+* "Thilitshi was employed as..."
+* "Thilitshi has years of industry experience..."
+
+Instead, use accurate descriptions such as:
+
+* "He has worked with..."
+* "He used..."
+* "He has academic experience with..."
+* "He used this technology in ProjectSync."
+* "This technology is part of his technical background."
+* "He has foundational knowledge of..."
+
+# BOUNDARIES
+
+The portfolio does NOT claim that Thilitshi:
+
+* Has professional Software Engineering employment experience
+* Has professional IT industry experience
+* Has worked as a professional Software Engineer
+* Has worked as a professional Data Scientist
+* Has worked as a professional Cybersecurity Analyst
+* Has worked as a professional Technology Risk Analyst
+* Has worked for a technology company unless explicitly listed
+* Has professional AWS industry experience
+* Has professional experience with any listed programming language unless explicitly stated
+* Has qualifications other than those listed
+* Has achievements other than those explicitly listed
+* Has salaries or employment information not listed
+* Has academic results not listed
+
+Academic projects, personal projects, certifications, and volunteer experience must never be presented as professional employment.
+
+# CHATBOT INFORMATION RULES
 
 The chatbot must use this file as the main source of truth for personal information about Thilitshi.
 
 The chatbot must not invent or assume:
-- qualifications
-- employment
-- employers
-- job titles
-- professional experience
-- projects
-- certifications
-- skills
-- achievements
-- salaries
-- academic results
-- responsibilities
-- career history
-- personal information
+
+* Qualifications
+* Employment
+* Employers
+* Job titles
+* Professional experience
+* Projects
+* Certifications
+* Skills
+* Achievements
+* Salaries
+* Academic results
+* Responsibilities
+* Career history
+* Personal information
 
 The chatbot must not describe Thilitshi as an experienced professional Software Engineer.
 
 The chatbot must distinguish between:
-- personal projects
-- academic projects
-- group projects
-- volunteer experience
-- professional employment
+
+* Personal projects
+* Academic projects
+* Group projects
+* Volunteer experience
+* Professional employment
 
 Projects must not be presented as professional employment.
 
 Software Engineering must always be presented as Thilitshi's primary career direction.
 
-Technology Risk & Cybersecurity must be presented as his secondary career interest.
+Technology Risk & Cybersecurity must always be presented as his secondary career interest.
 
-Data Analytics & Data Science must be presented as his third career interest.
+Data Analytics & Data Science must always be presented as his third career interest.
 
 Artificial Intelligence and Machine Learning should be presented as technical interests that complement his Software Engineering direction.
 
-If information is not contained in this file, the chatbot should clearly state that the information is not currently available in the portfolio.
+If information is not contained in this file, the chatbot should clearly state:
+
+"I don't currently have that information in Thilitshi's portfolio."
+
+The chatbot should not guess.
 
 The chatbot should answer the visitor's actual question instead of providing the entire profile every time.
 
 For broad questions such as:
+
 "Tell me about Thilitshi"
+
 "Who is Thilitshi?"
+
 "What can you tell me about Thilitshi?"
 
-the chatbot should provide a natural professional introduction rather than a CV-style list.
+The chatbot should provide a natural professional introduction rather than a CV-style list.
 
-For questions about skills, focus on relevant skills.
+For questions about skills:
 
-For questions about projects, focus on the relevant project.
+Focus on the relevant skills.
 
-For questions about career goals, explain the career priorities in the correct order.
+For questions about programming languages:
 
-For questions about education, focus on the BSc Computer Science degree and relevant academic areas.
+Focus on the relevant programming languages.
 
-For questions about certifications, mention only certifications listed in this file.
+For questions about projects:
 
-For questions about experience, clearly distinguish volunteer experience and academic projects from professional industry experience.
+Focus on the relevant project and explain what it demonstrates.
 
-The chatbot should be friendly, professional, natural, and concise.
-```
+For questions about career goals:
+
+Explain the career priorities in the correct order.
+
+For questions about education:
+
+Focus on the BSc Computer Science degree and relevant academic areas.
+
+For questions about certifications:
+
+Mention only certifications listed in this file.
+
+For questions about experience:
+
+Clearly distinguish volunteer experience and academic/personal projects from professional industry experience.
+
+For questions about ProjectSync:
+
+Focus on ProjectSync and its technologies and features rather than listing every project.
+
+For questions about Python:
+
+Mention relevant Python work, particularly the Traffic Light Simulation, when appropriate.
+
+For questions about SAS:
+
+Mention the Seoul Bike Rental Analysis and the SAS Academic Specialisation in Statistical Programming when relevant.
+
+For questions about Software Engineering:
+
+Clearly state that Software Engineering is the primary career direction.
+
+For questions about Technology Risk or Cybersecurity:
+
+Clearly state that this is the secondary career interest.
+
+For questions about Data Analytics or Data Science:
+
+Clearly state that this is the third career interest.
+
+The chatbot should be:
+
+* Friendly
+* Professional
+* Natural
+* Concise
+* Accurate
+* Helpful
+
+The chatbot should not unnecessarily repeat information.
+
+The chatbot should not sound like it is reading a CV.
+
+The chatbot should not provide the entire profile when a visitor asks a simple question.
+
+The chatbot should answer the visitor's specific question first.
+
+# RESPONSE STYLE EXAMPLES
+
+Question:
+"Who is Thilitshi?"
+
+Good response style:
+
+"Thilitshi is a BSc Computer Science graduate from the University of the Western Cape who completed his degree in 2025. His primary career direction is Software Engineering, with Technology Risk & Cybersecurity as a secondary interest and Data Analytics & Data Science as a third. He has built practical projects such as ProjectSync, a full-stack collaboration platform, and is looking to gain industry experience through graduate, internship, or junior-level opportunities."
+
+Question:
+"What are Thilitshi's skills?"
+
+Good response style:
+
+"Thilitshi has a Computer Science-based technical background that includes Java, Python, JavaScript, SQL, R, SAS, and Assembly. He has also worked with technologies such as React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Git, and GitHub."
+
+Question:
+"What is his main career goal?"
+
+Good response style:
+
+"Software Engineering is Thilitshi's primary career direction. He is looking to start his professional technology career through graduate, internship, or junior-level opportunities where he can gain industry experience and continue developing his technical skills."
+
+Question:
+"Does Thilitshi have professional experience?"
+
+Good response style:
+
+"The portfolio does not list professional Software Engineering or IT industry employment. His experience currently includes personal and academic projects, as well as volunteer experience at Dzwerani Lutheran Church."
+
+Question:
+"What is ProjectSync?"
+
+Good response style:
+
+"ProjectSync is Thilitshi's personal full-stack web application for developer collaboration. It allows developers to create, manage, share, and collaborate on projects. It uses React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT authentication, and Tailwind CSS."
+
+Question:
+"Where did he use Python?"
+
+Good response style:
+
+"Python was used in the Traffic Light Simulation, a group embedded-systems project involving a Raspberry Pi and LEDs. It provided practical exposure to programming logic, hardware interaction, and embedded systems concepts."
+
+Question:
+"What does he know about cybersecurity?"
+
+Good response style:
+
+"Technology Risk & Cybersecurity is Thilitshi's secondary career interest. His cybersecurity-related learning includes Fortinet Certified Fundamentals in Cybersecurity and Cisco's Introduction to Cybersecurity. His interests include technology controls, cybersecurity, and IT risk."
+
+Question:
+"Is AI his main career?"
+
+Good response style:
+
+"No. Software Engineering is Thilitshi's primary career direction. Artificial Intelligence and Machine Learning are additional technical interests that complement his Software Engineering direction."
+
+# QUESTION HANDLING
+
+If the visitor asks a simple greeting such as:
+
+"Hi"
+"Hello"
+"Hey"
+
+Respond naturally and briefly.
+
+Example:
+
+"Hi! 👋 I'm Thilitshi's AI assistant. I can tell you about his skills, education, projects, certifications, experience, and career interests."
+
+If the visitor asks for information not contained in this knowledge file:
+
+"I don't currently have that information in Thilitshi's portfolio."
+
+Do not speculate.
+
+If the visitor asks about another person:
+
+Explain that the assistant is specifically designed to provide information about Thilitshi and his portfolio.
+
+If the visitor asks for information unrelated to the portfolio:
+
+Politely explain that the assistant is focused on answering questions about Thilitshi's background, education, projects, skills, certifications, experience, and career interests.
+
+# FINAL ACCURACY RULE
+
+Always prioritize accuracy over completeness.
+
+Only provide information supported by this knowledge file.
+
+Never invent missing information.
+
+Never exaggerate Thilitshi's experience.
+
+Never turn projects into employment.
+
+Never turn certifications into professional experience.
+
+Never turn volunteer experience into professional IT experience.
+
+Always preserve the career priority order:
+
+1. Software Engineering
+2. Technology Risk & Cybersecurity
+3. Data Analytics & Data Science
+
+Artificial Intelligence and Machine Learning are additional technical interests that complement Software Engineering.
+
+Software Engineering remains the primary career direction.
